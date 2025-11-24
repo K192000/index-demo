@@ -1,2 +1,2 @@
 # index-demo
-this i my first repo
+this is my first repository
